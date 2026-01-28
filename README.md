@@ -237,19 +237,3 @@ npm test -- --coverage
 - [React Router](https://reactrouter.com)
 
 ---
-
-## 🤝 Contributing
-
-Guidelines for contributing to this project will be added here.
-
----
-
-## 📄 License
-
-This project is part of a learning/portfolio initiative.
-
----
-
-## 📝 Notes
-
-This is a frontend-focused implementation showcasing modern React patterns, component architecture, and state management. The backend integration points are prepared with TypeScript types for seamless API connection.
