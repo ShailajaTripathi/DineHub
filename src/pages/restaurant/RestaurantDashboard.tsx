@@ -210,7 +210,7 @@ export default function RestaurantDashboard() {
         </Card>
       </div>
 
-      {/* Recent Orders Table */}
+      {/* Recent Orders Table card*/}
       <Card>
         <CardHeader>
           <div className="flex items-center justify-between">
