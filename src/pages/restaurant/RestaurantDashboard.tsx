@@ -164,7 +164,7 @@ export default function RestaurantDashboard() {
           </CardContent>
         </Card>
 
-        {/* Preparing Orders */}
+        {/* Preparing Orders in card */}
         <Card>
           <CardHeader className="pb-3">
             <div className="flex items-center justify-between">
