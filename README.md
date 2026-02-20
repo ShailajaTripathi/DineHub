@@ -2,6 +2,8 @@
 
 A modern, full-stack food delivery application built with React, TypeScript, and Tailwind CSS. This project implements dual-role architecture supporting Customer and Restaurant user flows with real-time order management.
 
+---
+
 ## 🚀 Project Overview
 
 **DineHub** is a comprehensive food delivery platform that demonstrates production-grade React development, state management, component architecture, and user experience design. The application showcases both frontend excellence and full-stack thinking through dual role-based interfaces.
