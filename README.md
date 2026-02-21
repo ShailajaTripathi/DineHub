@@ -8,6 +8,8 @@ A modern, full-stack food delivery application built with React, TypeScript, and
 
 **DineHub** is a comprehensive food delivery platform that demonstrates production-grade React development, state management, component architecture, and user experience design. The application showcases both frontend excellence and full-stack thinking through dual role-based interfaces.
 
+---
+
 ## 📋 Key Features
 
 ### 🛒 Customer Features
