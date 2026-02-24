@@ -2,7 +2,7 @@
 
 A modern, full-stack food delivery application built with React, TypeScript, and Tailwind CSS. This project implements dual-role architecture supporting Customer and Restaurant user flows with real-time order management.
 
----
+----
 
 ## 🚀 Project Overview
 
